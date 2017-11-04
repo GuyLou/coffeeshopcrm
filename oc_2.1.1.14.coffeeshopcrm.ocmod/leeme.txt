@@ -1,1 +1,12 @@
+Gracias por comprar y usar CoffeeshopCrm
 
+1. La extensión es ocmod habilitado, lo que permite la instalación facil.
+1.1 Se necesitan dos pasos más para habilitar CoffeeShopCrm.
+1.1.1 Dentro de su interfaz de administración de OpenCart, vaya a Sistema -> Usuarios -> grupos de usuarios, y haga clic en Editar en el grupo de administración (o cualquier grupo que desee tener acceso a)
+1.1.2 Seleccionar carpeta coffeeshopcrm / archivos para ver y modificar (basado a los permisos que desea permitir al grupo)
+1.2 Instrucciones para instalar el archivo zip de forma manual se especifican a continuación
+2. oportunidades se pueden agregar por cada fase de pre-venta. una vez que haya linkeado a órdenes recién hechas, oportunidades recibirán el estado del estado del orden
+3. cada orden sólo puede tener una CR de venta
+4. cada orden puede tener número ilimitado CR de servicios
+5. La historia del ordenes está integrado en la historia del CR perfectamente
+6. Resumen del Tablero cuenta sólo CRes abiertas, por el fase y gama fecha de vencimiento
